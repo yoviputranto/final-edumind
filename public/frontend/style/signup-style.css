@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", Helvetica, sans-serif;
+}
+
+body {
+  height: 100vh;
+  background: #fff;
+  background-repeat: repeat-x;
+  background-size: contain;
+}
+
+.signup {
+  min-width: 100vw;
+}
+
+.signup .container {
+  background-color: transparent;
+}
+
+.signup .container .card {
+  padding: 30px 50px 5px 50px;
+  background-color: #A6B1E1;
+  border-radius: 16px;
+}
+
+.signup .container .card .card-body {
+  padding: 0 0 0 0;
+}
+
+.signup .container .card .card-body .card-title {
+   
+  font-size: 26px;
+  
+  font-weight: 600;
+  
+  color: #424874;
+}
+
+.signup .container .card .card-body .input-data input {
+  background-color: #F9FAFB;
+  height: 30px;
+  border-radius: 0;
+}
+
+.signup .container .card .card-body .input-data button {
+  background-color: #F9FAFB;
+  width: 40px;
+  height: 30px;
+  padding: 3px 4px 0 0;
+}
+
+.signup .container .card .card-body .form-label {
+   
+  font-size: 14px;
+  
+  font-weight: 600;
+  
+  color: #424874;
+}
+
+.signup .container .card .card-body .form-check label {
+   
+  font-size: 12px;
+  
+  font-weight: 500;
+  line-height: 27px;
+
+  
+  color: #747DAB;
+}
+
+.signup .container .card .card-body .form-check a {
+   
+  font-size: 12px;
+  
+  font-weight: 500;
+  line-height: 27px;
+
+  
+  color: #747DAB;
+}
+
+.signup .container .card .card-body .action-label label {
+   
+  font-size: 14px;
+  
+  font-weight: 500;
+  line-height: 27px;
+
+  
+  color: #747DAB;
+}
+
+.signup .container .card .card-body .btn-login {
+  width: 100px;
+  background-color: #424874;
+  padding: 6px 20px 6px 20px;
+  color: #fff;
+  border-radius: 12px;
+   
+  font-size: 14px;
+  
+  font-weight: 500;
+  text-align: center;
+}
+
+.signup .container .card .card-body .btn-signup {
+  width: 100px;
+  background-color: #262626;
+  padding: 6px 20px 6px 20px;
+  color: #fff;
+  border-radius: 12px;
+   
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.signup .container .card .card-body .btn-facebook {
+  width: 120px;
+  background-color: #fff;
+  padding: 6px 10px 6px 10px;
+  color: #000;
+  border-radius: 12px;
+   
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.signup .container .card .card-body .btn-google {
+  width: 120px;
+  background-color: #fff;
+  padding: 6px 10px 6px 10px;
+  color: #000;
+  border-radius: 12px;
+   
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+}
+
+
+/* End of signup */
+
+
+/* Copyright */
+
+.copyright {
+  background-color: #262626;
+}
+/* End of Copyright */

@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", Helvetica, sans-serif;
+}
+
+body {
+  background: #fff;
+  background-repeat: repeat-y;
+  background-size: contain;
+}
+
+.login {
+  min-width: 100vw;
+}
+
+.login .container {
+  background-color: transparent;
+}
+
+.login .container .card {
+  padding: 70px 50px 30px 50px;
+  background-color: #A6B1E1;
+  border-radius: 16px;
+}
+
+.login .container .card .card-body {
+  padding: 0 0 0 0;
+}
+
+.login .container .card .card-body .card-title {
+   
+  font-size: 26px;
+  
+  font-weight: 600;
+  
+  color: #424874;
+}
+
+.login .container .card .card-body .form-label {
+   
+  font-size: 16px;
+  
+  font-weight: 600;
+  
+  color: #424874;
+}
+
+.login .container .card .card-body .form-control {
+  background-color: #F9FAFB;
+  border-radius: 0;
+}
+
+.login .container .card .card-body .form-check label {
+   
+  font-size: 14px;
+  
+  font-weight: 500;
+  line-height: 27px;
+
+  
+  color: #747DAB;
+}
+
+.login .container .card .card-body .form-check a {
+   
+  font-size: 14px;
+  
+  font-weight: 500;
+  line-height: 27px;
+
+  
+  color: #747DAB;
+}
+
+.login .container .card .card-body .action-label label {
+   
+  font-size: 14px;
+  
+  font-weight: 500;
+  line-height: 27px;
+
+  
+  color: #747DAB;
+}
+
+.login .container .card .card-body .btn-login {
+  width: 100px;
+  background-color: #424874;
+  padding: 6px 20px 6px 20px;
+  color: #fff;
+  border-radius: 12px;
+   
+  font-size: 14px;
+  
+  font-weight: 500;
+  text-align: center;
+}
+
+.login .container .card .card-body .btn-signup {
+  width: 100px;
+  background-color: #262626;
+  padding: 6px 20px 6px 20px;
+  color: #fff;
+  border-radius: 12px;
+   
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.login .container .card .card-body .btn-facebook {
+  width: 120px;
+  background-color: #fff;
+  padding: 6px 10px 6px 10px;
+  color: #000;
+  border-radius: 12px;
+   
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.login .container .card .card-body .btn-google {
+  width: 120px;
+  background-color: #fff;
+  padding: 6px 10px 6px 10px;
+  color: #000;
+  border-radius: 12px;
+   
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+}
+
+
+/* End of Login */
+
+
+/* Copyright */
+
+.copyright {
+  background-color: #262626;
+}
+/* End of Copyright */
